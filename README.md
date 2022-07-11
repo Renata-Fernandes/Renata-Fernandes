@@ -1,6 +1,6 @@
-<table align="right">
- <tr><td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README.md">:fr: Français</a></td></tr>
+<table align="right"> 
  <tr><td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README-pt-br">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README.md">:fr: Français</a></td></tr>
 </table>
 
 
