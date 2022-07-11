@@ -1,6 +1,9 @@
-<table align="right"> 
- <tr><td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README-br.md">:brazil: Português</a></td></tr>
- <tr><td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README.md">:fr: Français</a></td></tr>
+<table align="right">
+ <tr>
+	<td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README-en.md">:us:</a></td>
+ 	<td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README-br.md">:brazil:</a></td>
+	<td><a href="https://github.com/Renata-Fernandes/Renata-Fernandes/blob/main/README.md">:fr:</a></td>
+	</tr>
 </table>
 
 
@@ -51,22 +54,27 @@ Je suis actuellement en transition de carrière.
  </div> 
  
 <h2> :computer: Outils technologiques </h2>
-<br>
 
+<h4>Langage de programmation<h4>	
+	
 ![HTML5](https://img.shields.io/badge/-HTML5-260B02?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-260B02?style=flat&logo=CSS)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-260B02?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-260B02?style=flat&logo=javascript)&nbsp;	
+![TypeScript](https://img.shields.io/badge/-TypeScript-260B02?style=flat&logo=typescript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-260B02?style=flat&logo=bootstrap)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-260B02?style=flat&logo=angular)&nbsp;
+![jquery](https://img.shields.io/badge/-jquery-260B02?style=flat&logo=jquery)&nbsp;
+![Java](https://img.shields.io/badge/-Java-260B02?style=flat&logo=java&logoColor=007396)&nbsp;
+	
+<h4>Design</h4>
+	
 ![Figma](https://img.shields.io/badge/-Figma-260B02?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-260B02?style=flat&logo=photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-260B02?style=flat&logo=illustrator)&nbsp;
 ![CorelDraw](https://img.shields.io/badge/-CorelDraw-260B02?style=flat&logo=coreldraw)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-260B02?style=flat&logo=bootstrap)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-260B02?style=flat&logo=angular)&nbsp;
-![jquery](https://img.shields.io/badge/-jquery-260B02?style=flat&logo=jquery)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-260B02?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-260B02?style=flat&logo=java&logoColor=007396)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-260B02?style=flat&logo=node.js)&nbsp;
-![Springboot](https://img.shields.io/badge/-Springboot-260B02?style=flat&logo=springboot)&nbsp;
+
+<h4>Développement</h4>
+	
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-260B02?style=flat&logo=visual-studio-code)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-260B02?style=flat&logo=eclipse)&nbsp;
 
