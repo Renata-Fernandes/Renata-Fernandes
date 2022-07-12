@@ -50,6 +50,9 @@ Atualmente estou em transição de carreira.
   
   <a href="mailto:re.sourirez@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+	  
+  <a href="https://www.behance.net/renata-fernandes">
+		<img src="https://img.shields.io/badge/Behance-1323FA?style=for-the-badge&logo=behance&logoColor=white" />  
  </p>
  </div> 
  
